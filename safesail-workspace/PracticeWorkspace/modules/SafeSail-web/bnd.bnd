@@ -1,0 +1,5 @@
+Bundle-Name: SafeSail-web
+Bundle-SymbolicName: com.safesailweb
+Bundle-Version: 1.0.0
+Export-Package: com.safesailweb.constants
+Web-ContextPath:/sail

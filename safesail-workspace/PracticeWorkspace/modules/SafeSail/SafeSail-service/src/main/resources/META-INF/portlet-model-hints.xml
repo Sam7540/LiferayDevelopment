@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.safesail.model.Form1">
+		<field name="uuid" type="String" />
+		<field name="sailId" type="long" />
+		<field name="quoteId" type="String" />
+		<field name="fullname" type="String" />
+		<field name="dob" type="Date" />
+		<field name="gender" type="String" />
+		<field name="phoneNo" type="long" />
+		<field name="emailAddress" type="String" />
+		<field name="panNumber" type="String" />
+		<field name="annualIncome" type="long" />
+		<field name="sumAssured" type="long" />
+		<field name="policyTerm" type="int" />
+		<field name="PPTerm" type="int" />
+		<field name="paymentFrequency" type="String" />
+		<field name="PayoutOption" type="String" />
+		<field name="lifeSecure" type="int" />
+		<field name="lifePlus" type="int" />
+		<field name="CIPBenefit" type="int" />
+		<field name="totalValues" type="long" />
+		<field name="totalAddon" type="long" />
+		<field name="agreement" type="Boolean" />
+	</model>
+</model-hints>
