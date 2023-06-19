@@ -63,6 +63,8 @@ public class ProfilePortlet extends MVCPortlet {
 		
 		renderRequest.setAttribute("address", address);
 		
+		System.out.println("Profile completed");
+		
 		super.doView(renderRequest, renderResponse);
 	}
 }
